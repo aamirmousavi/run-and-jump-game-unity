@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class GameControl : MonoBehaviour {
 
+/*
 	public static GameControl instance = null;
 
 	[SerializeField]
@@ -25,7 +26,7 @@ public class GameControl : MonoBehaviour {
 	public static bool gameStopped;
 
 	float nextScoreIncrease = 0f;
-
+*/
 	// Use this for initialization
 	void Start () {
 		
